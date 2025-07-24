@@ -4,7 +4,7 @@
 **BeCarioni/BeCarioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-🌱 I’m currently learning Javascript.
+I’m learning to build complete web applications from frontend to backend. Currently focused on improving my JavaScript and Git skills.
 
 
 ## Technologies I use in my day
